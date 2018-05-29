@@ -35,3 +35,4 @@ In order to parse the request header, you will need to use the `query-string` pa
 
 So in your middlware, you'll need to use it to get an object with the `user` and `pass` from the request header `x-username-and-password` (if this request header was sent at all!).
 
+# Gatekeeper-middleware
